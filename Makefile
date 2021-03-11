@@ -3,8 +3,8 @@ help:
 build:
 	@mkdir bin
 	@go fmt
-	@go build -o bin/gossm
-	@cp state.py bin/ssm
-	@chmod a+x bin/ssm
+	@go build -o bin/ssm-go
+	@cp state.py bin/ssm-py
+	@chmod a+x bin/ssm-py
 clean:
 	@rm -rf bin
