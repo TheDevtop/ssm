@@ -1,9 +1,11 @@
 # Simple State Machine (SSM)
 
-A state machine written in Python 3.
+A simple state machine written in Python.
+
+And a more complex state machine written in Go.
 
 ![Diagram](.html/ssm.png)
 
 ### Notes:
 
-The current implementation is call stack intensive.
+The current implementation (Python) is call stack intensive.
