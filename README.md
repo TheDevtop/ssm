@@ -2,8 +2,8 @@
 
 ![Diagram](.html/ssm.png)
 
-The implementation of a simple state machine.
-Both in Go and Python.
+The implementation of a simple finite state machine.
+Written in two languages: Go and Python.
 
 ### Golang:
 

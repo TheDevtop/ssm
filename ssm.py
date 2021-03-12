@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Program: SSM - Simple State Machine
-# Version: 1.0
+# Version: 1.1
 # Auhtors: Thijs Haker
 
 tap = [] # Tape

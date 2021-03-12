@@ -1,7 +1,7 @@
 package main
 
 // Program: Simple State Machine (Go)
-// Version: 1.0
+// Version: 1.1
 // Authors: Thijs Haker
 
 import "fmt"
@@ -26,6 +26,7 @@ func reset() {
 }
 
 func main() {
+	fmt.Println("Simple State Machine (SSM)")
 	for {
 		// Initial state == reset state
 		reset()
